@@ -11,6 +11,7 @@
 The dataset presents an extensive collection of around 24.4 million credit card transactions, sourced from IBM's financial database. Capturing a wide spectrum of user interactions, the data provides a detailed snapshot of transaction behaviors, patterns, and potential vulnerabilities. 
 Details include: **<span style="color:#007d79;"> User&card info, time&amount of transactions, merchant details, fraud detection flag</span>**.
 Dataset Link - "https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/"
+Notebook Link - "https://www.kaggle.com/code/satyamrajbarnwal/credit-card-fraud-transaction-detection-using-rfc"
 
 **Out of Total Transactions-**
 
